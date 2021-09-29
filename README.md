@@ -1,6 +1,5 @@
 # Harry Potter Kata
 
-## Potter
 If you want to try this Kata for yourself or at your dojo meeting, read the problem description and see if the Kata appeals to you. The rest is commentary and helpful clues for if you get stuck solving it. I would recommend trying the Kata for yourself before reading too much of it.
 
 ### Problem Description
